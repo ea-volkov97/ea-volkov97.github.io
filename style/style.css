@@ -1,3 +1,10 @@
 a, a:visited {
 	color:red;
 }
+
+.maintext {
+	margin: auto;
+	justify-content: center;
+	width: 400px;
+	text-align: center;
+}
